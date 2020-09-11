@@ -1,4 +1,5 @@
 import java.util.Scanner;
+// Q10 Write a program to input indefinite numbers and then calculate the sum of only the positive numbers. The program terminates when negative numbers is input
 
 public class Q10 {
 

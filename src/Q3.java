@@ -1,4 +1,4 @@
-
+//Q3 Write a Fibonoci’s series program as 0 11 2 3 5 8...n numbers and run in the command prompt
 public class Q3 {
 
 	public static void main(String[] args) {

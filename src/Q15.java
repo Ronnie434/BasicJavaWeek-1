@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Q15 Write a Java program to detect key presses.If the user pressed number keys( from 0 to 9), the program will tell the number that is pressed, otherwise, program will show "Not allowed".
 public class Q15 {
 
 	public static void main(String[] args) {

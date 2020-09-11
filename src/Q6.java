@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Q6.Check whether an alphabet is vowel or consonant using switch statement
 public class Q6 {
 
 	public static void main(String[] args) {

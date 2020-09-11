@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Q5.Take a year as input and Print the year is leap year or not a leap year using Nested-if else statement
 public class Q5 {
 
 	public static void main(String[] args) {

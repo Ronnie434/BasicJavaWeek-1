@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Q16.Write a Java program that allows the user to choose the correct answer of a question.
 public class Q16 {
 
 	public static void main(String[] args) {

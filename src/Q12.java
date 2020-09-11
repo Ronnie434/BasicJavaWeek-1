@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Q12.By using do while loop, write Java program to prompt the user to choose the correct answer from a list of answer choices of a question.
 public class Q12 {
 
 	public static void main(String[] args) {

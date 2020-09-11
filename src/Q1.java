@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Q1.Take input from the user and Print if the number is less than or greater than 100 using Ternary Operator
 public class Q1 {
 
 	public static void main(String[] args) {

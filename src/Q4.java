@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Q4.Calculate tips for the check(eg . Java TipCalculator < check amoiunt > <%tips>)
 public class Q4 {
 
 	public static void main(String[] args) {

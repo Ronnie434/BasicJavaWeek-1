@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Q7.Write a program using nested switch statement. Take input from user in form of “” and print the current running movies at the theater. E.g.
 public class Q7 {
 
 	public static void main(String[] args) {
